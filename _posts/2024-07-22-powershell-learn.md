@@ -17,6 +17,7 @@ PowerShell是windows下的一种命令行工具，一方面它替代了windows�
 
 通过下面的输出可以看出，PowerShell里面有相当多的别名和linux类似，比如ls、cd、cat、cp等，所以不管是从cmd，还是从linux过渡到Windows的PowerShell应该都是挺容易的
 
+
 以下是通过Get-Alias命令获取到的windows中的映射命令：
 
 ```
